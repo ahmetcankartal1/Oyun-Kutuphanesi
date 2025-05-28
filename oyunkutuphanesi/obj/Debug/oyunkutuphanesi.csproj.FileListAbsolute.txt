@@ -1,0 +1,32 @@
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\bin\Debug\oyunkutuphanesi.exe.config
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\bin\Debug\oyunkutuphanesi.exe
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\bin\Debug\oyunkutuphanesi.pdb
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.Properties.Resources.resources
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.csproj.GenerateResource.cache
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.exe
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.pdb
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\OyunKutuphane.loginform.resources
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.mainform.resources
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.formyilan.resources
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.labirentoyunu.formlabirent.resources
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.kartoyunu.formkart.resources
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.kelimeoyunu.formkelime.resources
+C:\Users\Ahmet Can\Desktop\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.ziplayantopoyunu.formtop.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\bin\Debug\oyunkutuphanesi.exe.config
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\bin\Debug\oyunkutuphanesi.exe
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\bin\Debug\oyunkutuphanesi.pdb
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.kartoyunu.formkart.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.kelimeoyunu.formkelime.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.labirentoyunu.formlabirent.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.formyilan.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\OyunKutuphane.loginform.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.mainform.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.Properties.Resources.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.ziplayantopoyunu.formtop.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.csproj.GenerateResource.cache
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.exe
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\GÖRSEL PROJESİ( oyun kütüphanesi )\oyunkutuphanesi\obj\Debug\oyunkutuphanesi.pdb

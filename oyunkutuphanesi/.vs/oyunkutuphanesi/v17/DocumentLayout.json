@@ -1,0 +1,689 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:labirentoyunu\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\duvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:labirentoyunu\\duvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\oyunmodu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kelimeoyunu\\oyunmodu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\kelimeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kelimeoyunu\\kelimeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\zorluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kartoyunu\\zorluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kartoyunu\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:labirentoyunu\\formlabirent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:labirentoyunu\\formlabirent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\formyilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\formyilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:ziplayantopoyunu\\formtop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:ziplayantopoyunu\\formtop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|c:\\users\\ahmet can\\desktop\\projeler(f\u0130nal)\\g\u00F6rsel projes\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:ziplayantopoyunu\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:ziplayantopoyunu\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_zor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\yilan_zor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_orta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\yilan_orta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_kolay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\yilan_kolay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\yilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\yem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\oyunalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\oyunalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\labirent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:labirentoyunu\\labirent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\zorluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kelimeoyunu\\zorluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:ziplayantopoyunu\\engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kartoyunu\\formkart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kartoyunu\\formkart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kartoyunu\\formkart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:labirentoyunu\\formlabirent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kelimeoyunu\\formkelime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kelimeoyunu\\formkelime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\skorlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:skorlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:ziplayantopoyunu\\formtop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:kelimeoyunu\\formkelime.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9B3E3-1259-4C10-AC19-8AE1D694DDE5}|oyunkutuphanesi.csproj|solutionrelative:yilanoyunu\\formyilan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "loginform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\loginform.cs",
+              "RelativeDocumentMoniker": "loginform.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\loginform.cs [Design]",
+              "RelativeToolTip": "loginform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:23:02.779Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\mainform.cs [Design]",
+              "RelativeToolTip": "mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:30:07.809Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formyilan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\formyilan.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.cs [Design]",
+              "RelativeToolTip": "yilanoyunu\\formyilan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:32:36.958Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "formkart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\formkart.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.cs [Design]",
+              "RelativeToolTip": "kartoyunu\\formkart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:41:47.172Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formlabirent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.cs",
+              "RelativeDocumentMoniker": "labirentoyunu\\formlabirent.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.cs [Design]",
+              "RelativeToolTip": "labirentoyunu\\formlabirent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:58:10.898Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "formkelime.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.cs",
+              "RelativeDocumentMoniker": "kelimeoyunu\\formkelime.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.cs [Design]",
+              "RelativeToolTip": "kelimeoyunu\\formkelime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:53:30.198Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "formtop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.cs",
+              "RelativeDocumentMoniker": "ziplayantopoyunu\\formtop.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.cs [Design]",
+              "RelativeToolTip": "ziplayantopoyunu\\formtop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:54:37.911Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "top.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\top.cs",
+              "RelativeDocumentMoniker": "ziplayantopoyunu\\top.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\top.cs",
+              "RelativeToolTip": "ziplayantopoyunu\\top.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:14:14.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formtop.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.cs",
+              "RelativeDocumentMoniker": "ziplayantopoyunu\\formtop.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.cs",
+              "RelativeToolTip": "ziplayantopoyunu\\formtop.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:45:08.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formyilan.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\formyilan.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.cs",
+              "RelativeToolTip": "yilanoyunu\\formyilan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:36:07.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formlabirent.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.cs",
+              "RelativeDocumentMoniker": "labirentoyunu\\formlabirent.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.cs",
+              "RelativeToolTip": "labirentoyunu\\formlabirent.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:35:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kelimeler.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\kelimeler.cs",
+              "RelativeDocumentMoniker": "kelimeoyunu\\kelimeler.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\kelimeler.cs",
+              "RelativeToolTip": "kelimeoyunu\\kelimeler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:25:21.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "oyunmodu.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\oyunmodu.cs",
+              "RelativeDocumentMoniker": "kelimeoyunu\\oyunmodu.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\oyunmodu.cs",
+              "RelativeToolTip": "kelimeoyunu\\oyunmodu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:27:55.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kart.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\Kart.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Kart.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\Kart.cs",
+              "RelativeToolTip": "kartoyunu\\Kart.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:51:48.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zorluk.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\Zorluk.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Zorluk.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\Zorluk.cs",
+              "RelativeToolTip": "kartoyunu\\Zorluk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:50:46.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "duvar.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\duvar.cs",
+              "RelativeDocumentMoniker": "labirentoyunu\\duvar.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\duvar.cs",
+              "RelativeToolTip": "labirentoyunu\\duvar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:24:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\oyuncu.cs",
+              "RelativeDocumentMoniker": "labirentoyunu\\oyuncu.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\oyuncu.cs",
+              "RelativeToolTip": "labirentoyunu\\oyuncu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:24:23.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "platform.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\platform.cs",
+              "RelativeDocumentMoniker": "ziplayantopoyunu\\platform.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\platform.cs",
+              "RelativeToolTip": "ziplayantopoyunu\\platform.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:14:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "yilan_zor.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_zor.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\yilan_zor.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_zor.cs",
+              "RelativeToolTip": "yilanoyunu\\yilan_zor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:45:35.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "yilan_orta.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_orta.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\yilan_orta.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_orta.cs",
+              "RelativeToolTip": "yilanoyunu\\yilan_orta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:45:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "yilan_kolay.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_kolay.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\yilan_kolay.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan_kolay.cs",
+              "RelativeToolTip": "yilanoyunu\\yilan_kolay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:45:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "yilan.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\yilan.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yilan.cs",
+              "RelativeToolTip": "yilanoyunu\\yilan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:43:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "yem.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yem.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\yem.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\yem.cs",
+              "RelativeToolTip": "yilanoyunu\\yem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:43:52.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "oyunalani.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\oyunalani.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\oyunalani.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\oyunalani.cs",
+              "RelativeToolTip": "yilanoyunu\\oyunalani.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:44:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "labirent.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\labirent.cs",
+              "RelativeDocumentMoniker": "labirentoyunu\\labirent.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\labirent.cs",
+              "RelativeToolTip": "labirentoyunu\\labirent.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:23:53.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "zorluk.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\zorluk.cs",
+              "RelativeDocumentMoniker": "kelimeoyunu\\zorluk.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\zorluk.cs",
+              "RelativeToolTip": "kelimeoyunu\\zorluk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:29:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "engel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\engel.cs",
+              "RelativeDocumentMoniker": "ziplayantopoyunu\\engel.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\engel.cs",
+              "RelativeToolTip": "ziplayantopoyunu\\engel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:14:08.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:01:51.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "loginform.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\loginform.cs",
+              "RelativeDocumentMoniker": "loginform.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\loginform.cs",
+              "RelativeToolTip": "loginform.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADgv1QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:27:03.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "mainform.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\mainform.cs",
+              "RelativeToolTip": "mainform.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:57:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "formkart.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\formkart.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.cs",
+              "RelativeToolTip": "kartoyunu\\formkart.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAUwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:59:50.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "formkart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.Designer.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\formkart.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kartoyunu\\formkart.Designer.cs",
+              "RelativeToolTip": "kartoyunu\\formkart.Designer.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAEwFoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:16:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "formkelime.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.cs",
+              "RelativeDocumentMoniker": "kelimeoyunu\\formkelime.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.cs",
+              "RelativeToolTip": "kelimeoyunu\\formkelime.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAMwFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:30:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Skorlar.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\Skorlar.cs",
+              "RelativeDocumentMoniker": "Skorlar.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\Skorlar.cs",
+              "RelativeToolTip": "Skorlar.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:57:52.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-28T15:33:17.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:21:56.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "formtop.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.Designer.cs",
+              "RelativeDocumentMoniker": "ziplayantopoyunu\\formtop.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\ziplayantopoyunu\\formtop.Designer.cs",
+              "RelativeToolTip": "ziplayantopoyunu\\formtop.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAASwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:22:17.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "formlabirent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.Designer.cs",
+              "RelativeDocumentMoniker": "labirentoyunu\\formlabirent.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\labirentoyunu\\formlabirent.Designer.cs",
+              "RelativeToolTip": "labirentoyunu\\formlabirent.Designer.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAApwC8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:05:45.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "formkelime.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.Designer.cs",
+              "RelativeDocumentMoniker": "kelimeoyunu\\formkelime.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\kelimeoyunu\\formkelime.Designer.cs",
+              "RelativeToolTip": "kelimeoyunu\\formkelime.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwHsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:32:13.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "formyilan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.Designer.cs",
+              "RelativeDocumentMoniker": "yilanoyunu\\formyilan.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\G\u00D6RSEL PROJES\u0130( oyun k\u00FCt\u00FCphanesi )\\oyunkutuphanesi\\yilanoyunu\\formyilan.Designer.cs",
+              "RelativeToolTip": "yilanoyunu\\formyilan.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAMwIgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:10:14.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
